@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MMConverter</string>
+    <string name="login_username">username</string>
+    <string name="login_password">password</string>
+</resources>
