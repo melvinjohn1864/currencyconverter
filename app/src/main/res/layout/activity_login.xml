@@ -8,7 +8,7 @@
     android:layout_marginEnd="@dimen/login_layout_margin_end"
     android:layout_marginLeft="@dimen/login_layout_margin_start"
     android:layout_marginRight="@dimen/login_layout_margin_end"
-    tools:context=".LoginActivity">
+    tools:context=".login.LoginActivity">
 
     <EditText
         android:id="@+id/et_username"
